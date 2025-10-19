@@ -1,0 +1,5 @@
+| git init | 저장소 초기화 |
+| git status | 상태 확인 |
+| git add . | 모든 파일 추가 |
+| git commit -m "" | 커밋 |
+| git push | 푸시 |
